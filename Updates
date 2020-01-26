@@ -1,4 +1,6 @@
 --==UPDATES==--
+*Added Script hub
+*Added the function "getrawmetatable()" to the RLua enviorment
 *Added Synapse X wrapper
 *Added Better UI
 *Added more lua API to the WRD API
